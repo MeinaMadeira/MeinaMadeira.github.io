@@ -30,7 +30,7 @@ twitter_username: reco_holi
 github_username: AkaneShoji
 
 # Build settings
-theme: hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 # Exclude from processing.
