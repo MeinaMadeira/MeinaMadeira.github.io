@@ -1,2 +1,0 @@
-# AkaneShoji.github.io
-RotateRecoholic
