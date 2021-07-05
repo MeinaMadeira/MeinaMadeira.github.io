@@ -28,7 +28,7 @@ twitter_username: reco_holi
 github_username: AkaneShoji
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 # Exclude from processing.
