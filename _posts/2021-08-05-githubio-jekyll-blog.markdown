@@ -22,3 +22,8 @@ categories: jekyll github
      `jekyll new` してサイト作成した際のデフォルトのサイトテーマはminimaになっています。
     これを別のサイトテーマに変更しようとすると，他のテーマはブログ形式のレイアウトを持たないためにページレイアウトが崩れてしまいます。ブログ形式を採用する場合はテーマギャラリーなどからブログ対応可能なテーマを探す必要がありそうです。
     
+## 8/24 追記
+minimaには４種のカラースキンがあります。これをデフォルトから変更してgithub pagesに適用するには，
+1. [minimaのgithubリポジトリ](https://github.com/jekyll/minima)から_includes, _layouts, _sassディレクトリをコピーしてきて追加する。
+2. assets/cssディレクトリを作成してstyle.scssファイルを追加。
+3. _config.ymlで好みのテーマを指定。
