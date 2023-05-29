@@ -24,7 +24,7 @@ Simulation Zoneのインプットとアウトプットの間に位置設定ノ�
 
 
 すると1フレームごとにx方向へ0.1mずつ移動するキューブのアニメーションが生成されます。
-<video src="/images/sim_movie.mp4" width="750" controls loop></video>
+<video src="/images/sim_movie.mp4" width="100%" controls loop></video>
 
 
 
@@ -33,7 +33,7 @@ Simulation Zoneのインプットとアウトプットの間に位置設定ノ�
 ## Simulation Zoneで何ができるのか
 すでに多くの方がSimulation Zoneを使った作例を発表していますが、私がSimulation Zoneを知って触れてみようと思ったきっかけの動画がこちらです。
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/h5_uA9sOw7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5_uA9sOw7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 はじめはクロスかソフトボディのシミュレーションとジオメトリノードの組み合わせかな？と思っていたため、ジオメトリノードだけでこの複雑なアニメーションが実現されていることに度肝を抜かれました。全編英語ですが、非常に勉強になったので興味が出てきたという方にはぜひ見ていただきたいです。
 
